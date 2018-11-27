@@ -18,7 +18,7 @@ Grocery store managers often pick products to put on "manager's special." These 
 * "Manager's specials" change periodically; at any moment a store manager could decide to add or remove a product.
 * Order is important as the store managers will select more important items to display first.
 * The goal is to fit as many products on the screen as they conform to the specified product frames.
-* You should be able to view any number of manager's special.
+* All "manager's special" products should be viewable.
 * If the combined width of the product frames exceeds the full width of the phone move the product frame to the next line and center any frames that do not fit in the full width frame.
 
 ### Specials Endpoint
