@@ -15,9 +15,9 @@ Grocery store managers often pick products to put on "manager's special." These 
 
 ## Product Requirements
 * There is a service endpoint: /stores/{storeId}/specials that returns a list of products that are on the "manager's special"
-* "Manager's specials" change periodically; at any moment a store manager could decide to add or remove a product
-* The goal is to fit as many products on the screen as they conform to the specified product frame.
+* "Manager's specials" change periodically; at any moment a store manager could decide to add or remove a product.
 * Order is important as the store managers will select more important items to display first.
+* The goal is to fit as many products on the screen as they conform to the specified product frames.
 * You should be able to view any number of manager's special.
 * If the combined width of the product frames exceeds the full width of the phone move the product frame to the next line and center any frames that do not fit in the full width frame.
 
