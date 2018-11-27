@@ -1,4 +1,4 @@
-# PrestoQ Services Coding Exercise
+# PrestoQ iOS Coding Exercise
 
 ## Overview
 
