@@ -36,7 +36,7 @@ We need an iOS app that allows customers to see which products are on "Manager's
 ```
 {  
    "canvasUnit":16,
-   "heroCoupons":[  
+   "managerSpecials":[  
       {  
          "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/L.png",
          "width":16,
