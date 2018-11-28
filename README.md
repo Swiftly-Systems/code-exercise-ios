@@ -32,7 +32,7 @@ Grocery store managers often pick products to put on "manager's special." These 
    "canvasHeight":16,
    "heroCoupons":[  
       {  
-         "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/031146033348.png",
+         "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/L.png",
          "width":16,
          "height":8,
          "display_name":"Noodle Dish with Roasted Black Bean Sauce",
@@ -40,7 +40,7 @@ Grocery store managers often pick products to put on "manager's special." These 
          "price":"1.00"
       },
       {  
-         "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/028400240185_CF___GS1_JPEG.JPG",
+         "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/J.png",
          "width":8,
          "height":8,
          "display_name":"Onion Flavored Rings",
@@ -48,7 +48,7 @@ Grocery store managers often pick products to put on "manager's special." These 
          "price":"1.00"
       },
       {  
-         "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/041390000034_CF___GS1_JPEG.JPG",
+         "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/K.png",
          "width":8,
          "height":8,
          "display_name":"Kikkoman Less Sodium Soy Sauce",
