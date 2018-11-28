@@ -22,9 +22,11 @@ We need an iOS app that allows customers to see which products are on "Manager's
 * Display as many products as possible while still following sizing parameters
 * If the combined width of the product frames exceeds the full width of the phone move the product frame to the next line and center any frames that do not fit in the full width frame.
 
+## Mockup
+![Manager's Special Mock](https://github.com/prestoqinc/code-exercise-ios/blob/master/managerSpecials.png "Manager's Special Mock")
 
-### Specials Endpoint
-* The endpoint will specify a canvasUnit which is used to specified the dimensions of each product frame (the height and width of the frame will be using canvasUnit). The canvasUnit will determine how many divisible units fits into the full width of the phone. 
+### Endpoint
+* The endpoint will provide a 'canvasUnit' which is used to specified the dimensions of each product frame (the height and width of the frame will be using canvasUnit). The canvasUnit will determine how many divisible units fits into the full width of the phone. 
 ** For example: if the canvasUnit is 8 and the total width fo the phone is 360px then each unit is 360px/8 = 45px. Which means given a product frame a width of 6 canvasUnit and a height of 3 canvasUnit, the product frame would be 270px (width) by 135px (height).
 * No product frame will have a width greater than the canvasUnit
 
@@ -61,7 +63,6 @@ We need an iOS app that allows customers to see which products are on "Manager's
 }
 ```
 
-![Manager's Special Mock](https://github.com/prestoqinc/code-exercise-ios/blob/master/managerSpecials.png "Manager's Special Mock")
 
 ## Standard Requirements
 * Complete this project on your own
