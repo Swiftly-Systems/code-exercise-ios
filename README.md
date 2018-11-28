@@ -25,6 +25,7 @@ We need an iOS app that allows customers to see which products are on "Manager's
 
 ## Mockup
 ![Manager's Special Mock](https://github.com/prestoqinc/code-exercise-ios/blob/master/managerSpecial.png "Manager's Special Mock")
+<img src="https://github.com/prestoqinc/code-exercise-ios/blob/master/managerSpecial.png" width="300"/>
 
 ### Endpoint
 * http://prestoq.com/ios-coding-challenge
