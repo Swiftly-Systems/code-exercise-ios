@@ -29,7 +29,7 @@ Grocery store managers often pick products to put on "manager's special." These 
 ### Sample Response
 ```
 {  
-   "canvasHeight":16,
+   "canvasUnit":16,
    "heroCoupons":[  
       {  
          "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/L.png",
