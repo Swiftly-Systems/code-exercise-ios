@@ -1,6 +1,6 @@
 # PrestoQ iOS Coding Exercise
 
-## Overview
+## Introduction
 
 To introduce PrestoQ to your coding style and technique, we'd like you to do a small coding exercise. This is not a coding test where we give you a score or run it through a suite of tests for correctness.
 
