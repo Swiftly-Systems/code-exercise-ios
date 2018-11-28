@@ -38,7 +38,7 @@ We need an iOS app that allows customers to see which products are on "Manager's
    "canvasUnit":16,
    "managerSpecials":[  
       {  
-         "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/L.png",
+         "imageUrl":"https://raw.githubusercontent.com/prestoqinc/code-exercise-ios/master/images/L.png",
          "width":16,
          "height":8,
          "display_name":"Noodle Dish with Roasted Black Bean Sauce",
@@ -46,7 +46,7 @@ We need an iOS app that allows customers to see which products are on "Manager's
          "price":"1.00"
       },
       {  
-         "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/J.png",
+         "imageUrl":"https://raw.githubusercontent.com/prestoqinc/code-exercise-ios/master/images/J.png",
          "width":8,
          "height":8,
          "display_name":"Onion Flavored Rings",
@@ -54,7 +54,7 @@ We need an iOS app that allows customers to see which products are on "Manager's
          "price":"1.00"
       },
       {  
-         "imageUrl":"https://github.com/prestoqinc/code-exercise-ios/blob/master/images/K.png",
+         "imageUrl":"https://raw.githubusercontent.com/prestoqinc/code-exercise-ios/master/images/K.png",
          "width":8,
          "height":8,
          "display_name":"Kikkoman Less Sodium Soy Sauce",
