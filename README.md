@@ -14,12 +14,14 @@ Think of this as real code you would be checking in. PrestoQ values self-descrip
 Grocery store managers often pick products to put on "manager's special." These products are chosen in order to drive customers to the store and increase basket size. PrestoQ has a tool that allows managers to select which product they want to place under "manager's specials" as well as the dimensions of product frame.
 
 ## Product Requirements
-* There is a service endpoint: /stores/{storeId}/specials that returns a list of products that are on the "manager's special"
-* "Manager's specials" change periodically; at any moment a store manager could decide to add or remove a product.
-* Order is important as the store managers will select more important items to display first.
-* The goal is to fit as many products on the screen as they conform to the specified product frames.
-* All "manager's special" products should be viewable.
+We need an iOS app that allows customers to see which products are on "Manager's Special". Given an endpoint that returns a JSON response of all products currently on "Manager's Special", build a page that displays all products and follows the provided mock-up.
+
+* Manager's Specials change periodically; at any moment a store manager could decide to add or remove a product
+* The products must be displayed in the order they are provided
+* The size of each product tile must be the size specified by the endpoint (See "Endpoint" for more information about sizing)
+* Display as many products as possible while still following sizing parameters
 * If the combined width of the product frames exceeds the full width of the phone move the product frame to the next line and center any frames that do not fit in the full width frame.
+
 
 ### Specials Endpoint
 * The endpoint will specify a canvasUnit which is used to specified the dimensions of each product frame (the height and width of the frame will be using canvasUnit). The canvasUnit will determine how many divisible units fits into the full width of the phone. 
