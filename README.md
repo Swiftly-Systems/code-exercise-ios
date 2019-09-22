@@ -1,17 +1,17 @@
-# PrestoQ iOS Coding Exercise
+# Swiftly iOS Coding Exercise
 
 ## Preface
 
-To introduce PrestoQ to your coding style and technique, we'd like you to do a small coding exercise. This is not a coding test where we give you a score or run it through a suite of tests for correctness.
+To introduce Swiflty to your coding style and technique, we'd like you to do a small coding exercise. This is not a coding test where we give you a score or run it through a suite of tests for correctness.
 
-Our hope is that we can use this to seed a discussion that provides us with an understanding of your design and coding abilities and you with an idea of what working at PrestoQ will be like. We believe this better reflects what engineers do than coding common patterns on a white board does.
+Our hope is that we can use this to seed a discussion that provides us with an understanding of your design and coding abilities and you with an idea of what working at Swiftly will be like. We believe this better reflects what engineers do than coding common patterns on a white board does.
 
 ## What We're Looking For
 
-Think of this as real code you would be checking in. PrestoQ values self-descriptive, [SOLID](https://en.wikipedia.org/wiki/SOLID), maintainable, testable designs and code.
+Think of this as real code you would be checking in. Swiftly values self-descriptive, [SOLID](https://en.wikipedia.org/wiki/SOLID), maintainable, testable designs and code.
 
 ## Overview
-Grocery store managers often pick products to put on "manager's special." These products are chosen in order to drive customers to the store and increase basket size. PrestoQ has a tool that allows managers to select which product they want to place under "manager's specials" as well as the dimensions of product frame.
+Grocery store managers often pick products to put on "manager's special." These products are chosen in order to drive customers to the store and increase basket size. Swiftly has a tool that allows managers to select which product they want to place under "manager's specials" as well as the dimensions of product frame.
 
 ## Product Requirements
 We need an iOS app that allows customers to see which products are on "Manager's Special". Given an endpoint that returns a JSON response of all products currently on "Manager's Special", build a page that displays all products and follows the provided mock-up.
@@ -75,8 +75,8 @@ We need an iOS app that allows customers to see which products are on "Manager's
     * Any other information you would normally include when you author a readme
   * This code is your intellectual property
     * License it however you'd like (MIT, Apache or Public Domain are great choices)
-    * Ensure the license you choose allows PrestoQ employees to read, build, and execute the code for free
-* Email your PrestoQ contact the link to the GitHub repository when you're ready to submit your project
+    * Ensure the license you choose allows Swiftly employees to read, build, and execute the code for free
+* Email your Swiftly contact the link to the GitHub repository when you're ready to submit your project
 
-If you have any questions, don't hesitate to reach out to your PrestoQ contact
+If you have any questions, don't hesitate to reach out to your Swiftly contact
 
