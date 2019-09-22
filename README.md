@@ -24,7 +24,7 @@ We need an iOS app that allows customers to see which products are on "Manager's
 * The endpoint must be used to get data: https://prestoq.com/ios-coding-challenge
 
 ## Mockup
-<img src="https://github.com/prestoqinc/code-exercise-ios/blob/master/managerSpecial.png" width="400"/>
+<img src="https://github.com/Swiftly-Systems/code-exercise-ios/blob/master/managerSpecial.png" width="400"/>
 
 ### Endpoint
 * https://prestoq.com/ios-coding-challenge
@@ -38,7 +38,7 @@ We need an iOS app that allows customers to see which products are on "Manager's
    "canvasUnit":16,
    "managerSpecials":[  
       {  
-         "imageUrl":"https://raw.githubusercontent.com/prestoqinc/code-exercise-ios/master/images/L.png",
+         "imageUrl":"https://raw.githubusercontent.com/Swiftly-Systems/code-exercise-ios/master/images/L.png",
          "width":16,
          "height":8,
          "display_name":"Noodle Dish with Roasted Black Bean Sauce",
@@ -46,7 +46,7 @@ We need an iOS app that allows customers to see which products are on "Manager's
          "price":"1.00"
       },
       {  
-         "imageUrl":"https://raw.githubusercontent.com/prestoqinc/code-exercise-ios/master/images/J.png",
+         "imageUrl":"https://raw.githubusercontent.com/Swiftly-Systems/code-exercise-ios/master/images/J.png",
          "width":8,
          "height":8,
          "display_name":"Onion Flavored Rings",
@@ -54,7 +54,7 @@ We need an iOS app that allows customers to see which products are on "Manager's
          "price":"1.00"
       },
       {  
-         "imageUrl":"https://raw.githubusercontent.com/prestoqinc/code-exercise-ios/master/images/K.png",
+         "imageUrl":"https://raw.githubusercontent.com/Swiftly-Systems/code-exercise-ios/master/images/K.png",
          "width":8,
          "height":8,
          "display_name":"Kikkoman Less Sodium Soy Sauce",
